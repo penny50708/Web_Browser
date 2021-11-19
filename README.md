@@ -1,3 +1,3 @@
 # Web_Browser
-Config files for my GitHub profile.
+This is a simple web browser application implemented using JavaFX. It has a multie tab layout and stores the history. The users can clear see and clear history.....
 ![screen](https://github.com/pennyliangzhao/Web_Browser/blob/master/Screenshot.jpg)
